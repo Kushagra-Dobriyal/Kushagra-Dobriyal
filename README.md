@@ -61,6 +61,21 @@ const kushagra = {
 <tr>
 <td width="50%" valign="top">
 
+### ⚡ [AntiVido](https://github.com/Kushagra-Dobriyal/AntiVido)
+**Distributed Async Job Processor + YouTube AI Summarizer**
+
+🔹 3,144 req/sec at **p99 50ms** latency  
+🔹 RAG pipeline with **Gemini AI + ChromaDB**  
+🔹 Redis-backed BullMQ job processing  
+🔹 Turborepo monorepo architecture  
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 💻 [Repl](https://github.com/Kushagra-Dobriyal/Repl)
 **AI-Powered Web-Based IDE**
 
@@ -74,6 +89,8 @@ const kushagra = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 [A-Minor](https://github.com/Kushagra-Dobriyal/A-Minor)
@@ -89,8 +106,6 @@ const kushagra = {
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 [SpenZ](https://github.com/Kushagra-Dobriyal/SpenZ)
@@ -105,6 +120,8 @@ const kushagra = {
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧬 [BIO-MLLAB](https://github.com/Kushagra-Dobriyal/BIO-MLLAB)
@@ -119,6 +136,9 @@ const kushagra = {
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+<!-- Empty cell to maintain grid alignment -->
 </td>
 </tr>
 </table>
