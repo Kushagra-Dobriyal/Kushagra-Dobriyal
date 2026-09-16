@@ -138,7 +138,19 @@ const kushagra = {
 
 </td>
 <td width="50%" valign="top">
-<!-- Empty cell to maintain grid alignment -->
+
+### 💬 [Chattyfy](https://github.com/Kushagra-Dobriyal/Chattyfy)
+**AI-Integrated Real-Time Chat Application**
+
+🔹 Real-time messaging with WebSockets  
+🔹 AI-powered chat assistance  
+🔹 Dockerized for easy deployment  
+🔹 Full-stack JavaScript  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 </td>
 </tr>
 </table>
