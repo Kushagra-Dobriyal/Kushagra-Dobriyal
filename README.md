@@ -1,11 +1,9 @@
 <div align="center">
 
+# Hi 👋 I'm Kushagra Dobriyal
+
 <!-- Animated Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Kushagra+Dobriyal;Full-Stack+Developer+%7C+Systems+Builder;Building+scalable+backend+systems+%26+AI+apps" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Kushagra-Dobriyal&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Systems+Builder;Building+scalable+backend+systems;Passionate+about+AI+%26+Performance" alt="Typing SVG" /></a>
 
 </div>
 
