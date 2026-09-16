@@ -61,96 +61,63 @@ const kushagra = {
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [AntiVido](https://github.com/Kushagra-Dobriyal/AntiVido)
-**Distributed Async Job Processor + YouTube AI Summarizer**
+### 💻 [Repl](https://github.com/Kushagra-Dobriyal/Repl)
+**AI-Powered Web-Based IDE**
 
-🔹 3,144 req/sec at **p99 50ms** latency  
-🔹 RAG pipeline with **Gemini AI + ChromaDB**  
-🔹 Redis-backed BullMQ job processing  
-🔹 Turborepo monorepo architecture  
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [PulseQ](https://github.com/Kushagra-Dobriyal/PulseQ)
-**High-Performance Async Job-Queuing API**
-
-🔹 BullMQ-powered background workers  
-🔹 Smart caching with payload hashing  
-🔹 Built-in IP rate limiting  
-🔹 Parallel LLM Execution Pools  
+🔹 Seamless & efficient coding environment  
+🔹 AI integrations for smart assistance  
+🔹 Web-based execution and previews  
+🔹 High-performance architecture  
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [Chattyfy](https://github.com/Kushagra-Dobriyal/Chattyfy)
-**AI-Integrated Real-Time Chat Application**
-
-🔹 Real-time messaging with WebSockets  
-🔹 AI-powered chat assistance  
-🔹 Dockerized for easy deployment  
-🔹 Full-stack JavaScript  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [Img-Gen AI](https://github.com/Kushagra-Dobriyal/Img-Gen_AI)
-**AI-Powered Image Generation Platform**
-
-🔹 Generate images from text prompts  
-🔹 Community sharing & discovery  
-🔹 AI API integration  
-🔹 Containerized with Docker  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [Potion](https://github.com/Kushagra-Dobriyal/Potion)
-**Full-Stack Next.js Web Application**
-
-🔹 Built with Next.js App Router  
-🔹 TypeScript-first codebase  
-🔹 Modern UI/UX design  
-🔹 Server-side rendering  
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [ChatPro](https://github.com/Kushagra-Dobriyal/chatpro)
-**Real-Time Chat Application**
+### 🔍 [A-Minor](https://github.com/Kushagra-Dobriyal/A-Minor)
+**Offline Hindi OCR Document Scanner**
 
-🔹 Full-stack chat platform  
-🔹 Real-time communication  
-🔹 Docker-ready deployment  
-🔹 Scalable architecture  
+🔹 High-accuracy raw text pipeline  
+🔹 Optimized for handwritten documents  
+🔹 Mixed Hindi/English language support  
+🔹 Fully offline processing capability  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [SpenZ](https://github.com/Kushagra-Dobriyal/SpenZ)
+**Cross-Platform Expense Tracker**
+
+🔹 Intuitive personal finance management  
+🔹 Beautiful, responsive UI components  
+🔹 Cross-platform (iOS & Android)  
+🔹 Secure local data management  
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [BIO-MLLAB](https://github.com/Kushagra-Dobriyal/BIO-MLLAB)
+**Bioinformatics Machine Learning Lab**
+
+🔹 GEO microarray & cell-cycle analysis  
+🔹 Correlation-based gene clustering  
+🔹 Hierarchical data visualization  
+🔹 Advanced statistical ML pipelines  
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
 </tr>
